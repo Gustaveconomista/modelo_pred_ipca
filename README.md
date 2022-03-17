@@ -1,1 +1,1 @@
-# modelo_pred_ipca
+# Modelo de Previsão da Inflação Brasileira usando o IPCA
